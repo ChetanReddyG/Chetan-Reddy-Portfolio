@@ -1,3 +1,3 @@
-# sb1-wwbfgayv
+# Portfolio
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ChetanReddyG/sb1-wwbfgayv)
+[Chetan Reddy Godumagadda Portfolio](https://stackblitz.com/~/github.com/ChetanReddyG/sb1-wwbfgayv)
